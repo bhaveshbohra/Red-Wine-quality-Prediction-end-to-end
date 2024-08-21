@@ -1,14 +1,14 @@
-pandas #data manipulation and analysis library
-notebook #interface for interactive coding
-numpy  #numerical computing in Python
-scikit-learn # Machine learning library for data mining and analysis
-matplotlib # visualizations
-python-box==6.0.2  # Utility for turning dictionaries into objects with dot notation
-pyYAML #YAML parser and emitter for Python, often used for configuration files
-ensure==1.0.2
-joblib   # can use pickle file instead valid  
-types-PyYAML  #Library for validating and ensuring conditions (e.g., type checking)
-Flask  #web framework for building web apps and APIs
-Flask-Cors   #Extension for handling Cross-Origin Resource Sharing in Flask
--e .   #Install the current project in "editable" mode for development
+pandas                    # data manipulation and analysis library
+notebook                  # interface for interactive coding
+numpy                     # numerical computing in Python
+scikit-learn              # Machine learning library for data mining and analysis
+matplotlib                # visualizations
+python-box==6.0.2         # Utility for turning dictionaries into objects with dot notation
+pyYAML                    # YAML parser and emitter for Python, often used for configuration files
+ensure==1.0.2             # Library for validating and ensuring conditions (e.g., type checking)
+joblib                    # can use pickle file instead valid  
+types-PyYAML              # Library for validating and ensuring conditions (e.g., type checking)
+Flask                     # web framework for building web apps and APIs
+Flask-Cors                # Extension for handling Cross-Origin Resource Sharing in Flask
+-e .                      # Install the current project in "editable" mode for development , local package setup 
 
