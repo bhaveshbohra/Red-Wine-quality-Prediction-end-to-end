@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.1.0
+Summary: A small python package for ml app
+Home-page: https://github.com/bhaveshbohra/Red-Wine-quality-Prediction-end-to-end
+Author: bhaveshbohra
+Author-email: bkbit24@gmail.com
+Project-URL: Bug Tracker, https://github.com/bhaveshbohra/Red-Wine-quality-Prediction-end-to-end/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# End to End project implemenation 
+# Red Wine Quality Prediction 
+
+# create virtual env 
+```bash
+conda create -n mlprediction python=3.8 -y 
+```
+
+```bash
+conda activate mlprediction
+```
+
+
+```bash
+pip install -r requirements.txt
+```
